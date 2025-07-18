@@ -83,4 +83,8 @@ Les données :
   - prévoir un temps pour les questions.
 - Si besoin, demander l'avis d'un collègue.
 
+### Arbre de décision :
+
+!(/Ressources/DT.png)
+
 #### Ryad CHARNI
