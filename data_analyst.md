@@ -85,6 +85,6 @@ Les données :
 
 ### Arbre de décision :
 
-!(https://github.com/Ryad-C/Project/blob/main/Ressources/DT.png)
+![](https://github.com/Ryad-C/Project/blob/main/Ressources/DT.png)
 
 #### Ryad CHARNI
