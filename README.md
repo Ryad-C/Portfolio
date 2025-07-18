@@ -46,6 +46,7 @@ Les données :
 
 ### Traiter
 - Nettoyer les données :
+  -  Mise en forme,
   -  vérification de l'orthographe,
   -  suppression des doublons,
   -  rechercher et remplacer les textes si besoin,
