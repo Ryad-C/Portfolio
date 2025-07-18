@@ -87,4 +87,8 @@ Les données :
 
 ![](/Ressources/DT.png)
 
+### Dataviz :
+
+![](/Ressources/VZ.png)
+
 #### Ryad CHARNI
