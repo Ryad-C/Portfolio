@@ -8,3 +8,6 @@ J'estime qu'il me faudra :
 
 Je réussi à trouver un premier fichier qui traite des meilleurs ventes hebdomadaire du 03-01-2010 au 29-12-2019 (source : kaggle@dhruvildave) et le nettoie (fichier original : , fichier nettoyer : ).
 
+Je commence mon analyse et extrait des informations pertinente pour mes conclusions (fichier : )
+
+Je présente mon rapport lors d'une call en fin de semaine (fichier : ).
