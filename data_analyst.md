@@ -1,19 +1,19 @@
-# Les points important du DATA ANALYST
+# Les points importants du DATA ANALYST
 
 Le cheminement :
-- Demander : poser les questions au client nécéssaire à l'analyse de la situation et définir le problème.
-- Préparer : préparer la liste des sources de données nécéssaire au projet, prendre en compte l'origine des sources, la sécuritée des données, les valeurs éthiques et RGPD. Organiser le temps nécéssaire via un calendrier des taches.
+- Demander : poser les questions au client nécessaires à l'analyse de la situation et définir le problème.
+- Préparer : préparer la liste des sources de données nécessaire au projet, prendre en compte l'origine des sources, la sécurité des données, les valeurs éthiques et RGPD. Organiser le temps nécessaire via un calendrier des taches.
 - Traiter : préparation et nettoyage des données concernés, effectuer des enquêtes si besoin pour récolter plus de données.
-- Analyser : rechercher les informations nécéssaire à l'accomplissement de la tache, trier et réorganiser pour une meilleur pertinence, trouver des modèles, des relations, des corrélations et des tendances.
+- Analyser : rechercher les informations nécessaires à l'accomplissement de la tâche, trier et réorganiser pour une meilleure pertinence, trouver des modèles, des relations, des corrélations et des tendances.
 - Partager : exposer les résultats, préparer les conclusions et recommandations avec les clients. Cela doit être compréhensible, facilement lisible et être prêt à répondre aux questions.
-- Agir : aider si besoin à mettre en oeuvre les résultats avec les résponsables/clients.
+- Agir : aider si besoin à mettre en oeuvre les résultats avec les responsables/clients.
 
 Les données :
 - prendre en compte leur sécurité,
-- décider quel type de données est nécéssaire,
+- décider quel type de données est nécessaire,
 - toujours sourcer l'origine,
 - conserver les données pertinentes pour les conserver sur le long terme si besoin,
-- supprimer les données du stockage (ainsi que leurs diverses copies partagées) si non nécéssaire.
+- supprimer les données du stockage (ainsi que leurs diverses copies partagées) si non nécessaire.
 
 ### Demander
 - Préparer un questionnaire SMART : Spécifique, Mesurable, Atteignable, Réaliste, Temporellement défini.
@@ -22,7 +22,7 @@ Les données :
   - Atteignable : Les réponses fourniront-elles des informations qui vous aideront à élaborer un certain type de plan d’action ?
   - Réalistes et pertinentes : La question porte-t-elle sur le problème particulier que vous essayez de résoudre ?
   - Temporellement définies : Les réponses sont-elles pertinentes pour la période spécifique étudiée ?
-- Prendre en compte l'audiance :
+- Prendre en compte l'audience :
   - Qui sont les partenaires primaires et secondaires ?
   - Qui gère les données ?
   - Où pouvez-vous obtenir de l’aide ?
@@ -66,7 +66,7 @@ Les données :
 - Organiser les données (trier/filtrer),
 - Formater et ajuster les données (mise en forme conditionnelle),
 - Rechercher des modèles, des relations, des corrélations et des tendances,
-- partager vos résultats avec vos collègues et prendre en compte leur commentaires,
+- Partager vos résultats avec vos collègues et prendre en compte leur commentaires,
 - Transformer les données si besoin,
 - Jointure de BDD si besoin.
 
@@ -79,7 +79,7 @@ Les données :
 - Organiser sa présentation :
   - préparer les visualisations,
   - répondre aux questions évidentes sous forme de commentaire,
-  - préparer ses recommandations et conclusions
+  - préparer ses recommandations et conclusions,
   - prévoir un temps pour les questions.
 - Si besoin, demander l'avis d'un collègue.
 
