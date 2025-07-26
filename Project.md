@@ -1,4 +1,5 @@
-# Projet fictif n°1
+# Projet fictif d'analyse de données
+
 Je fais partie d'une entreprise international d'édition de livre en tout genre. Je reçois une demande du service commercial qui aimerait savoir comment l'évolution des ventes des livres s'est effectuée dans les années 2010 aux états unis. 
 
 Je demande quels types d'information détaillé ils souhaitent recevoir et quel est l'urgence du projet.
