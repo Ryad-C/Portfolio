@@ -85,11 +85,11 @@ Les données :
 
 ### Arbre de décision :
 
-![](/Ressources/DT.png)
+![](/ressources/DT.png)
 
 ### Dataviz :
 
-![](/Ressources/VZ.png)
+![](/ressources/VZ.png)
 
 Cette liste est non exhaustive.
 
