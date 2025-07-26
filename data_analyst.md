@@ -91,4 +91,6 @@ Les données :
 
 ![](/Ressources/VZ.png)
 
+Cette liste est non exhaustive et relate la base du métier.
+
 #### Ryad CHARNI
