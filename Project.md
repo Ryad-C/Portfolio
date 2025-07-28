@@ -11,8 +11,8 @@ J'estime qu'il me faudra :
 - 1 jour et demi pour les analyser et les transformer (en fonction de la quantité et la qualité des données),
 - 1 jour pour finaliser mon rapport.
 
-Je réussi à trouver un premier fichier qui traite des meilleurs ventes hebdomadaire du 03-01-2010 au 29-12-2019 (source : kaggle@dhruvildave) et le nettoie ([fichier original](https://drive.google.com/file/d/1Q_Ruq3eIr-1pKW3a22_EEV1WCi-icdO3/view?usp=drive_link), fichier nettoyer : ).
+Je réussi à trouver un premier fichier qui traite des meilleurs ventes hebdomadaire du 03-01-2010 au 29-12-2019 (source : kaggle@dhruvildave) et le nettoie ([fichier original](https://drive.google.com/file/d/1Q_Ruq3eIr-1pKW3a22_EEV1WCi-icdO3/view?usp=drive_link), [fichier nettoyé]()).
 
-Je commence mon analyse et extrait des informations pertinente pour mes conclusions (fichier : )
+Je commence mon analyse et extrait des informations pertinente pour mes conclusions ([fichier analysé]())
 
-Je présente mon rapport lors d'une call en fin de semaine (fichier : ).
+Je présente mon rapport lors d'une call en fin de semaine ([fichier]()).
