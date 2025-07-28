@@ -64,6 +64,7 @@ Les données :
 
 ### Analyser
 - Organiser les données (trier/filtrer),
+- Mettre en place des tableaux croisés dynamiques,
 - Formater et ajuster les données (mise en forme conditionnelle),
 - Rechercher des modèles, des relations, des corrélations et des tendances,
 - Partager vos résultats avec vos collègues et prendre en compte leur commentaires,
