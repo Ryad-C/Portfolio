@@ -4,7 +4,7 @@ Je fais partie d'une entreprise international d'édition de livre en tout genre.
 
 Je demande quels types d'information détaillé ils souhaitent recevoir et quel est l'urgence du projet.
 
-Le but est de comprendre quels types de livres a été vendu, lesquels ont performé sur plusieurs semaines, et quelle tendance il y a eu sur la décennie. Le projet est urgent, à rendre dans une semaine au plus tard.
+Le but est de comprendre quels types de livres ont été vendu, lesquels ont performé sur plusieurs semaines, et quelle tendance il y a eu sur la décennie. Le projet est urgent, à rendre dans une semaine au plus tard.
 
 J'estime qu'il me faudra : 
 - 2 jours pour trouver les données nécessaires et les nettoyer (je garde à l'esprit qu'il faudra des fichiers pertinents et que je ne n'aurai surement pas le temps de trouver beaucoup de sources dans ces délais),
