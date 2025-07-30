@@ -16,4 +16,6 @@ Je réussi à trouver un fichier qui traite des meilleures ventes hebdomadaire d
 
 Je commence mon analyse et extrait des informations pertinentes pour mes conclusions ([fichier analysé](https://docs.google.com/spreadsheets/d/1JXCRJdx_rbk2gDamft8U09Ui3ya-GH59/edit?usp=drive_link&ouid=101886849349520005557&rtpof=true&sd=true))
 
-Je présente mon rapport lors d'une call en fin de semaine ([fichier]()).
+Je présente mon rapport lors d'une call en fin de semaine ([fichier](https://drive.google.com/file/d/1Pgv-ErwT72P3KAAwGUOzfk-qtwDo-WzO/view?usp=drive_link)).
+
+La prise de décision finale se fait lors d'une call deux jours plus tard avec le comité d'entreprise.
