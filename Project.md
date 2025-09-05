@@ -13,9 +13,9 @@ J'estime qu'il me faudra :
 - je me garde une demi journée pour la correction et la vérification des incohérences.
 - Ces délais sont également à prendre en compte en fonction des autres projets sur lesquels je travaille en parallèle.
 
-Je réussi à trouver un fichier qui traite des meilleures ventes hebdomadaire du 03-01-2010 au 29-12-2019 et le nettoie ([fichier original](https://drive.google.com/file/d/1Q_Ruq3eIr-1pKW3a22_EEV1WCi-icdO3/view?usp=drive_link), [fichier nettoyé](https://drive.google.com/file/d/1EhAZo0WagGowOBKZgiJo24L6UeY-0HdV/view?usp=drive_link)).
+Je réussi à trouver un [fichier](https://docs.google.com/spreadsheets/d/1A2Qto1CYHJD0wxs88yIsIRWZaowaJ06n/edit?usp=drive_link&ouid=101886849349520005557&rtpof=true&sd=true) qui traite des meilleures ventes hebdomadaire du 03-01-2010 au 29-12-2019 et le nettoie (onglet "bestsellers_cleaned").
 
-Je commence mon analyse et extrait des informations pertinentes pour mes conclusions ([fichier analysé](https://docs.google.com/spreadsheets/d/1JXCRJdx_rbk2gDamft8U09Ui3ya-GH59/edit?usp=drive_link&ouid=101886849349520005557&rtpof=true&sd=true))
+Je commence mon analyse et extrait des informations pertinentes pour mes conclusions (onglet "bestsellers_analysed" et "analyse")
 
 Je présente mon rapport lors d'une call en fin de semaine ([fichier](https://drive.google.com/file/d/10av-onj7LP2HJRjJ3EoKBxurHtjUBR2M/view?usp=drive_link)).
 
