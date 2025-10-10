@@ -34,35 +34,3 @@ while True:
     else:
         print("Veuillez choisir une option valide...")
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-test = ['a', 'b', 'c', 'd']
-for i, element in enumerate(test):
-    print(i+1, element)
-'''
-
-
-
-
-'''
-1: Ajouter un élément à la liste de courses
-2: Retirer un élément de la liste de courses
-3: Afficher les éléments de la liste de courses
-4: Vider la liste de course
-5: Quitter le programme'
-
-
-
-'''
