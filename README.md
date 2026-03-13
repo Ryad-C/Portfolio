@@ -16,7 +16,7 @@ Rigoureux, autonome et doté d'un sens aigu de l'organisation, je suis prêt à 
 Pour cela, voici également quelques exemples de projets d'analyse de données :
 - Un projet d'analyse sur les [ventes de livres](/Project.md) aux étatus unis.
 - Quelques exemple de projet de [programmation en python](/Project_Python)
-- Des exemples de [rapports BI](/Powerbi) sur l'évolution de KPI et d'analyse des ventes.
+- Des exemples de [rapports BI](/PowerBI) sur l'évolution de KPI et d'analyse des ventes.
 
 Pour rappel, je vous partage mon [CV](https://drive.google.com/file/d/1hRHzQJDeNAo1w8Iva_ybN4we1pxo-Xri/view?usp=drive_link) que j'essaye de tenir à jour régulièrement. un rappel également de ce qu'est un [DATA ANALYST](/data_analyst.md) et enfin une synthèse du [bilan de compétence](https://drive.google.com/file/d/1ZuENoRLQTo4Jq1KyeJm_CkONdGz1qTRs/view?usp=drive_link) que j'ai effectué.
 
