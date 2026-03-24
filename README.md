@@ -14,7 +14,7 @@ Ma double culture, à savoir la réalité du commerce et la rigueur de l'analyse
 Rigoureux, autonome et doté d'un sens aigu de l'organisation, je suis prêt à m'investir pleinement pour transformer vos données en leviers de décision. 
 
 Pour cela, voici également quelques exemples de projets d'analyse de données :
-- Un projet d'analyse sur les [ventes de livres](/Project.md) aux étatus unis.
+- Un projet d'analyse sur les [ventes de livres](/Project.md) aux états unis.
 - Quelques exemple de projet de [programmation en python](/Project_Python)
 - Des exemples de [rapports BI](/PowerBI) sur l'évolution de KPI et d'analyse des ventes.
 
